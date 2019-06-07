@@ -1,0 +1,20 @@
+{
+  "_db1_comment": "DB(오라클) 접속 정보",
+  "db1": {
+    "user": "user",
+    "password": "password",
+    "connectString": "connectString"
+  },
+  "_db2_comment": "DB(오라클) 접속 정보",
+  "db2": {
+    "user": "user",
+    "password": "password",
+    "connectString": "connectString"
+  },
+  "_db3_comment": "DB(오라클) 접속 정보",
+  "db3": {
+    "user": "user",
+    "password": "password",
+    "connectString": "connectString"
+  }
+}

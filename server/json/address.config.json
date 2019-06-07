@@ -1,0 +1,12 @@
+{
+  "_web_comment": "웹서버 접속 주소 및 포트",
+  "web": {
+    "url": "http://localhost",
+    "port": 3000
+  },
+  "_socket_comment": "소켓서버 접속 주소 및 포트",
+  "socket": {
+    "url": "http://localhost",
+    "port": 7000
+  }
+}
